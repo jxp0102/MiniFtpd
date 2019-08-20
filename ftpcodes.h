@@ -1,9 +1,7 @@
 #ifndef _FTP_CODES_H_
 #define _FTP_CODES_H_
 
-
 #define FTP_DATACONN          150
-
 #define FTP_NOOPOK            200
 #define FTP_TYPEOK            200
 #define FTP_PORTOK            200
